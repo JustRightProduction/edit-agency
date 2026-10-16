@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hire Top Video Editors</title>
+  <style>
+    body { font-family: Arial, sans-serif; background-color: #121212; color: #fff; margin: 0; padding: 0; text-align: center; }
+    header { padding: 50px 20px; background: #1f1f1f; }
+    h1 { color: #00e676; margin-bottom: 10px; }
+    .container { max-width: 800px; margin: auto; padding: 20px; }
+    .card { background: #1e1e1e; padding: 20px; border-radius: 8px; margin: 20px 0; box-shadow: 0 4px 10px rgba(0,0,0,0.5); }
+    input, select, textarea, button { width: 100%; padding: 12px; margin: 10px 0; border-radius: 5px; border: none; box-sizing: border-box; }
+    button { background-color: #00e676; color: #000; font-weight: bold; cursor: pointer; font-size: 16px; }
+    button:hover { background-color: #00c853; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Level Up Your Videos</h1>
+    <p>Professional video editing for YouTube, Shorts, TikToks & Sports edits.</p>
+  </header>
+
+  <div class="container">
+    <div class="card">
+      <h2>Our Work</h2>
+      <p>Check out our portfolio highlights before booking!</p>
+      <!-- Replace with your YouTube or TikTok video links -->
+      <iframe width="100%" height="315" src="https://www.youtube.com/embed/tgbNymZ7vqY" frameborder="0" allowfullscreen></iframe>
+    </div>
+
+    <div class="card">
+      <h2>Book an Editor</h2>
+      <!-- Replace YOUR_PHONE_NUMBER below with your actual phone number with country code -->
+      <form action="https://wa.me/YOUR_PHONE_NUMBER" method="get" target="_blank">
+        <input type="text" name="text" placeholder="Your Name & Project Details (e.g., Short Edit, YouTube Video)" required>
+        <button type="submit">Order via WhatsApp</button>
+      </form>
+    </div>
+  </div>
+
+</body>
+</html>
